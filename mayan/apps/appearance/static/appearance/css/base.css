@@ -369,7 +369,10 @@ a i {
         padding-right: 150px;
     }
 }
-
+/*Bootstrap button color override*/
+.btn-default.btn-outline {
+  color: #d9534f;
+}
 
 /*Bootstrap button outline override*/
 .btn-outline {
